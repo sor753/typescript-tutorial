@@ -16,5 +16,8 @@
   "homepage": "https://github.com/sor753/typescript-tutorial#readme",
   "devDependencies": {
     "typescript": "3.7.5"
+  },
+  "dependencies": {
+    "ts-node": "8.6.2"
   }
 }
