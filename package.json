@@ -6,15 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sor753/typescript-tutorial.git"
-  },
+  "repository": "git+https://github.com/sor753/typescript-tutorial.git",
   "keywords": [],
-  "author": "",
+  "author": "show kawazoe <show753@icloud.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/sor753/typescript-tutorial/issues"
   },
-  "homepage": "https://github.com/sor753/typescript-tutorial#readme"
+  "homepage": "https://github.com/sor753/typescript-tutorial#readme",
+  "devDependencies": {
+    "typescript": "3.7.5"
+  }
 }
